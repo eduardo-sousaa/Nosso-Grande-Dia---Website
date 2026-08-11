@@ -1,0 +1,6 @@
+{
+  "name": "Nosso Grande Dia",
+  "description": "Sistema privado e pessoal de organização e planejamento do casamento",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
