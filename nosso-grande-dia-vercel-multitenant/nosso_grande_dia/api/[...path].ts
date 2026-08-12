@@ -1,1 +1,0 @@
-import { app } from '../app.js';\n\nexport default app;\n
